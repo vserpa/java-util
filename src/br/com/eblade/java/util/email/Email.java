@@ -1,4 +1,4 @@
-package br.com.arrowbrasil.carteira.email;
+package br.com.eblade.java.util.email;
 
 import java.io.Serializable;
 import java.util.ArrayList;

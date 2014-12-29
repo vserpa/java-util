@@ -1,4 +1,4 @@
-package br.com.arrowbrasil.carteira.email;
+package br.com.eblade.java.util.email;
 
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
@@ -22,10 +22,8 @@ import javax.mail.util.ByteArrayDataSource;
 
 import org.apache.log4j.Logger;
 
-/**
- * @author Luciano Nunes dos Santos
- */
 public class SMTPUtil {
+	
 	private static final Logger log = Logger.getLogger(SMTPUtil.class);
 	
 	public static void sendMail(Email email, Properties props) throws UnsupportedEncodingException, MessagingException, IOException {

@@ -1,11 +1,11 @@
-package br.com.arrowbrasil.carteira.email;
+package br.com.eblade.java.util.email;
 
 import javax.mail.Authenticator;
 import javax.mail.PasswordAuthentication;
 
 public class SimpleAuth extends Authenticator {
+	
 	public String username = null;
-
 	public String password = null;
 
 	public SimpleAuth(String user, String pwd) {
