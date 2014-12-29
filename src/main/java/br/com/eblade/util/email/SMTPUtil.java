@@ -1,4 +1,4 @@
-package br.com.eblade.java.util.email;
+package br.com.eblade.util.email;
 
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
