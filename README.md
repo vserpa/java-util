@@ -5,7 +5,7 @@ Laboratório contendo bibliotecas de uso comum, incluindo exemplos de integraç�
 
 Features inclusas na versão atual:
 
-- Implementação de email OO
+- Implementação de Java Mail
 - Integração usando Jira REST Java Client (JRJC)
 
 Exemplos inclusos na versao atual (JIRA):
